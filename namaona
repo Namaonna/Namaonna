@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HOW I Feel When i'm with You</title>
+</head>
+<body>
+    <script>
+
+       var you = 1;
+       while( you<Infinity ) 
+             {
+              Document.write(" I Love Ankhbayar ");
+              you++;
+              }
+      </script>
+</body>
+</html>
